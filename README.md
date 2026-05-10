@@ -43,5 +43,6 @@ Supported 30+ daily customers, diagnosed hardware/software issues, installed & c
 ## 📫 Connect
 
 - 📧 calebmaina3@gmail.com
+- 📧 www.linkedin.com/in/kaleb-maina-88b1a72b3
 - 📍 Nairobi, Kenya
 - 💼 Actively seeking internships & junior developer roles
