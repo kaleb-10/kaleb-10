@@ -3,7 +3,7 @@
 🎓 ICT Diploma student @ **JOMO Kenyatta University of Agriculture & Technology (JKUAT)**
 📱 Mobile & web developer — Java/Android + HTML, CSS, JavaScript, SQL
 💼 Former ICT Assistant with real-world customer-facing experience
-📍 Nairobi, Kenya | 🌱 Currently deepening skills in Kotlin & backend development
+📍 Nairobi, Kenya | 🌱 Currently deepening skills in Software Engeneering & backend development
 🚀 Open to internships, collaborations, and entry-level software roles
 
 ---
