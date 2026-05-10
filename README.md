@@ -33,14 +33,6 @@ Patient registration, record lookup, and data updates built with HTML, CSS, Java
 
 ---
 
-## 📊 GitHub Stats
-
-![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaleb-10&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleb-10&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 💼 Experience
 
 **ICT Assistant** — Revelation Cyber Cafe *(Jan 2024 – May 2024)*
